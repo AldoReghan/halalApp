@@ -27,6 +27,7 @@ class CardSurah extends StatelessWidget {
             child: ListTile(
               title: Text(surah[i]['nama_surah']),
               subtitle: Text(surah[i]['arti']),
+              jumlahayat: Text(surah[1]['jumlah_ayat']),
             ),
           ),
         );
