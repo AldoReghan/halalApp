@@ -1,6 +1,6 @@
 # syariahapp
 
-A new Flutter project.
+This App for implementation fetch API
 
 ## Getting Started
 
